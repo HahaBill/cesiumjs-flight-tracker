@@ -1,1 +1,1 @@
-# cesiumjs-flight-tracker
+# cesiumjs-practice-projects
